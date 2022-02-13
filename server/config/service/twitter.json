@@ -1,0 +1,13 @@
+{
+    "type": "service",
+    "data": {
+        "name": "Twitter",
+        "color": "0xFFFFFF",
+        "api_key": "",
+        "secret": "",
+        "widgets": [
+           "twitter_sendTweet.json"
+        ]
+    }
+
+}

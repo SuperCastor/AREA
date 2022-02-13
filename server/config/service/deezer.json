@@ -1,0 +1,12 @@
+{
+    "type": "service",
+    "data": {
+        "name": "Deezer",
+        "color": "F1C26E",
+        "api_key": "",
+        "secret": "",
+        "widgets": [
+        ]
+    }
+
+}

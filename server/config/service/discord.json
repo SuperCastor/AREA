@@ -1,0 +1,12 @@
+{
+    "type": "service",
+    "data": {
+        "name": "Discord",
+        "color": "98B9E7",
+        "api_key": "",
+        "secret": "",
+        "widgets": [
+        ]
+    }
+
+}

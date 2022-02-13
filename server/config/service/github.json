@@ -1,0 +1,12 @@
+{
+    "type": "service",
+    "data": {
+        "name": "GitHub",
+        "color": "A4A4A4",
+        "api_key": "",
+        "secret": "",
+        "widgets": [
+        ]
+    }
+
+}

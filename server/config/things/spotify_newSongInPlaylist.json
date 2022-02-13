@@ -1,0 +1,12 @@
+{
+    "type": "action",
+    "data": {
+        "name": "Une musique à été ajoutée à la playlist",
+        "requestPath": "https://spotify.com/.../",
+        "requestType": "GET",
+        "params": [
+           {"label": "Lien vers la playlist", "type": "string"}
+        ]
+    }
+
+}

@@ -1,0 +1,12 @@
+{
+    "type": "service",
+    "data": {
+        "name": "LinkedIn",
+        "color": "71BBDB",
+        "api_key": "",
+        "secret": "",
+        "widgets": [
+        ]
+    }
+
+}

@@ -1,0 +1,12 @@
+{
+    "type": "service",
+    "data": {
+        "name": "Google",
+        "color": "FCA1A1",
+        "api_key": "",
+        "secret": "",
+        "widgets": [
+        ]
+    }
+
+}

@@ -1,0 +1,12 @@
+{
+    "type": "reaction",
+    "data": {
+        "name": "Envoyer un tweet",
+        "requestPath": "https://twitter.com/.../",
+        "requestType": "POST",
+        "params": [
+           {"label": "Texte du tweet", "type": "longString"}
+        ]
+    }
+
+}

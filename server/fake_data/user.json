@@ -1,0 +1,16 @@
+{
+    "id": "...",
+    "username": "...",
+    "services": [
+        {"service": "spotify", "logged": true},
+        {"service": "linkedin", "logged": false},
+        {"service": "google", "logged": false},
+        {"service": "deezer", "logged": false},
+        {"service": "twitter", "logged": true},
+        {"service": "github", "logged": true},
+        {"service": "discord", "logged": false}
+    ],
+    "area": [
+        {"id": "...", "action": "", "actionData": "" , "reaction": "", "reactionData": ""}
+    ]
+}

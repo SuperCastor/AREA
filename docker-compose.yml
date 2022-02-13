@@ -1,0 +1,25 @@
+version: "3"
+services:
+  server:
+    build: ./server
+    restart: on-failure
+    ports:
+     - "8080:8080"
+  
+  mobile:
+    build: ./mobile
+    volumes:
+     - apk:/mobile/
+  
+  web:
+    build: ./web
+    restart: on-failure
+    depends_on:
+      - mobile
+      - server
+    ports:
+      - 8081:3000
+    volumes:
+      - apk:/mobile/
+volumes:
+  apk:

@@ -1,0 +1,10 @@
+{
+    "type": "action",
+    "data": {
+        "name": "Un utilisateur écoute de la musique",
+        "params": [
+           {"label": "Lien vers le profil", "type": "string"}
+        ]
+    }
+
+}

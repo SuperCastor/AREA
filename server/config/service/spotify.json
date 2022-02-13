@@ -1,0 +1,14 @@
+{
+    "type": "service",
+    "data": {
+        "name": "Spotify",
+        "color": "91EAB8",
+        "api_key": "",
+        "secret": "",
+        "widgets": [
+           "spotify_newSongInPlaylist.json",
+           "spotify_isListening.json"
+        ]
+    }
+
+}
